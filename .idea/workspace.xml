@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89a22928-1b82-4696-bc34-06c2030ea9f4" name="Default Changelist" comment="bugs fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611382228130</updated>
       <workItem from="1611382229173" duration="28822000" />
-      <workItem from="1611414235433" duration="4170000" />
+      <workItem from="1611414235433" duration="5470000" />
     </task>
     <task id="LOCAL-00001" summary="bugs fixed">
       <created>1611418269371</created>
@@ -79,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611418269371</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bugs fixed">
+      <created>1611418423872</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611418423872</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,9 +140,13 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="755" y="479" width="399" height="156" key="NewPhpFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1611401571053" />
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1611410267760">
+    <state x="684" y="237" width="541" height="640" key="RollbackChangesDialog" timestamp="1611419987004">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1611410267760" />
+    <state x="684" y="237" width="541" height="640" key="RollbackChangesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1611419987004" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1611420125834">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1611420125834" />
   </component>
 </project>

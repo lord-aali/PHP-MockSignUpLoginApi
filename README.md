@@ -9,7 +9,7 @@
 ### Test:
 #### base url
 ```
-http://zenta-apps.ir/api/login/test/v1
+http://zenta-apps.ir/api/login/test/v1/index.php
 ```
 #### admin-panel
 ```
