@@ -23,7 +23,7 @@ unset($reqHandler);
 switch ($xhrRequest["request_type"]) {
     case "signup":
     {
-        $xhrRequest["avatar"] = "$_SERVER[REQUEST_SCHEME]://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+        $xhrRequest["avatar"] = "$_SERVER[REQUEST_SCHEME]://$_SERVER[HTTP_HOST]/person.png";
         $signUp = new SignUp($xhrRequest);
         $signUp->signUp();
         break;
