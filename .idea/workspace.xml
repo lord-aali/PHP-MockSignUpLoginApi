@@ -19,13 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89a22928-1b82-4696-bc34-06c2030ea9f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/person.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/person.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/db/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/users.json" beforeDir="false" afterPath="$PROJECT_DIR$/db/users.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    <list default="true" id="89a22928-1b82-4696-bc34-06c2030ea9f4" name="Default Changelist" comment="bugs fixed">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +70,16 @@
       <option name="presentableId" value="Default" />
       <updated>1611382228130</updated>
       <workItem from="1611382229173" duration="28822000" />
-      <workItem from="1611414235433" duration="4009000" />
+      <workItem from="1611414235433" duration="4170000" />
     </task>
+    <task id="LOCAL-00001" summary="bugs fixed">
+      <created>1611418269371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611418269371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +95,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bugs fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugs fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1046" y="177" width="700" height="759" key="#PHP" timestamp="1611398173152">

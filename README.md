@@ -1,12 +1,12 @@
-##The simple login and signup api based on php
-####A simple post api for test implementation (no sql needed)...
-####Features:
+## The simple login and signup api based on php
+#### A simple post api for test implementation (no sql needed)...
+#### Features:
 - Login
 - Signup
 - userdata
 - simple control panel
 ---
-###Test:
+### Test:
 #### base url
 ```
 http://zenta-apps.ir/api/login/test/v1
@@ -17,7 +17,7 @@ http://zenta-apps.ir/api/login/test/v1/admin-panel.php
 ```
     
 ---
-###Signup
+### Signup
 Request:
 ```
 parameters:
@@ -55,7 +55,7 @@ Response (if fail):
 ```
 
 ---
-###Login
+### Login
 Request (username/password):
 ```
 parameters:
@@ -110,7 +110,7 @@ Response (if fail):
 }
 ```
 ---
-###Get Registered User
+### Get Registered User
 Request (key):
 ```
 parameters:
