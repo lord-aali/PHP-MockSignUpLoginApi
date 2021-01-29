@@ -1,5 +1,5 @@
 ## The simple login and signup api based on php
-#### A simple post api for test implementation (no sql needed)...
+#### A simple post api for test implementation (easy to deploy and no sql required)...
 #### Features:
 - Login
 - Signup
