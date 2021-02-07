@@ -9,11 +9,11 @@
 ### Test:
 #### base url
 ```
-http://zenta-apps.ir/api/login/test/v1/index.php
+https://zenta-apps.ir/api/login/test/v1/index.php
 ```
 #### admin-panel
 ```
-http://zenta-apps.ir/api/login/test/v1/admin-panel.php
+https://zenta-apps.ir/api/login/test/v1/admin-panel.php
 ```
     
 ---
