@@ -23,8 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89a22928-1b82-4696-bc34-06c2030ea9f4" name="Default Changelist" comment="bugs fixed">
+      <change afterPath="$PROJECT_DIR$/api.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
@@ -74,7 +81,9 @@
       <option name="presentableId" value="Default" />
       <updated>1611382228130</updated>
       <workItem from="1611382229173" duration="28822000" />
-      <workItem from="1611414235433" duration="5470000" />
+      <workItem from="1611414235433" duration="9787000" />
+      <workItem from="1612160356381" duration="63000" />
+      <workItem from="1612710129628" duration="2198000" />
     </task>
     <task id="LOCAL-00001" summary="bugs fixed">
       <created>1611418269371</created>
@@ -90,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611418423872</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="bugs fixed">
+      <created>1611420149610</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611420149610</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,12 +122,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bugs fixed" />
     <option name="LAST_COMMIT_MESSAGE" value="bugs fixed" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="215" width="800" height="684" key="#Deployment" timestamp="1612710739630">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="215" width="800" height="684" key="#Deployment/0.27.1920.1053@0.27.1920.1053" timestamp="1612710739630" />
+    <state x="670" y="1278" width="570" height="357" key="#Notifications" timestamp="1612160396171">
+      <screen x="0" y="900" width="1920" height="1080" />
+    </state>
+    <state x="670" y="1278" width="570" height="357" key="#Notifications/0.900.1920.1080/189.0.1600.900@0.900.1920.1080" timestamp="1612160396171" />
     <state x="1046" y="177" width="700" height="759" key="#PHP" timestamp="1611398173152">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -140,13 +165,25 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="755" y="479" width="399" height="156" key="NewPhpFileDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1611401571053" />
-    <state x="684" y="237" width="541" height="640" key="RollbackChangesDialog" timestamp="1611419987004">
+    <state x="684" y="237" width="541" height="640" key="RollbackChangesDialog" timestamp="1611423295150">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="684" y="237" width="541" height="640" key="RollbackChangesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1611419987004" />
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1611420125834">
+    <state x="684" y="237" width="541" height="640" key="RollbackChangesDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1611423295150" />
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1612710354950">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1611420125834" />
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1612710354950" />
+    <state x="741" y="468" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612710147043">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="741" y="468" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053@0.27.1920.1053" timestamp="1612710147043" />
+    <state x="856" y="270" width="359" height="580" key="ftp.server.browser" timestamp="1612710738068">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="856" y="270" width="359" height="580" key="ftp.server.browser/0.27.1920.1053@0.27.1920.1053" timestamp="1612710738068" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1611421283243">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1611421283243" />
   </component>
 </project>
